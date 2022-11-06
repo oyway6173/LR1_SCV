@@ -1,0 +1,1 @@
+mpirun --oversubscribe -np 50 python multi_process_multiplier.py
